@@ -2,7 +2,7 @@
 
 ## 1. What is Playwright?
 
-**Playwright** is an open-source automation framework developed by **Microsoft** (first released in 2020) for reliable **end-to-end testing of modern web applications**. It drives real browsers using a single API and ships with its own test runner, **`@playwright/test`**.
+**Playwright** is an open-source automation framework developed by **Microsoft** (first released in 2020) for reliable **end-to-end testing of modern web applications**.
 
 | Supported Languages | Supported Browsers (engines) | Supported OS |
 | ------------------- | ---------------------------- | ------------ |
